@@ -1,1 +1,1 @@
-# Rolling-Dice-Max-Score-Game-
+# Rolling-Dice-Max-Score-Game
