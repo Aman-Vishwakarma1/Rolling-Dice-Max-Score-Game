@@ -54,6 +54,7 @@ btnHold.addEventListener('click', function(){
     score[activePlayer] += currentScore 
     //Updating current score on Players Score Board !
     document.getElementById(`score--${activePlayer}`).textContent = score[activePlayer];
+    currentScore = 0;
     //changing active player and according background !
     activePlayer = activePlayer === 0 ? 1 : 0;
     player0El.classList.toggle('player--active');
