@@ -69,3 +69,5 @@ currentScore0.textContent = 0;
 currentScore1.textContent = 0;
 diceEl.classList.add('hidden');
 })
+
+
